@@ -8,7 +8,7 @@ The tech stack that they use the most is React, React Native and Node.
 
 This year, we created a widget to allow the users to send feedback.
 
-![widget](./assets/images/widget.png)
+![widget](./widget-screenshot.png)
 
 # Layout
 
