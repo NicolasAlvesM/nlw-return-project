@@ -90,7 +90,7 @@ Go to the project directory(nlw-return-project)
 ```bash
   cd mobile
   npm install
-  npm run dev
+  npm run start
 ```
 
 You must install expo app in your phone to test.
