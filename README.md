@@ -31,6 +31,8 @@ You must create an account to access and view.
 
 # Setup
 
+## You must install node.
+
 ## Clone repository
 
 Create and go to the directory where you want to place the repository
@@ -51,12 +53,13 @@ Go to the project directory
   cd nlw-return-project
 ```
 
-## Start the backend
+## Backend
 
 Open terminal and execute the following command:
 
 ```bash
   cd server
+  npm install
   npm run start
 ```
 
@@ -68,14 +71,29 @@ Open terminal and execute the following command:
   npm run test
 ```
 
-## Start the frontend
+## Frontend
+
+Go to the project directory(nlw-return-project)
 
 Open terminal and execute the following command:
 
 ```bash
   cd web
+  npm install
   npm run dev
 ```
+
+## Mobile
+
+Go to the project directory(nlw-return-project)
+
+```bash
+  cd mobile
+  npm install
+  npm run dev
+```
+
+You must install expo app in your phone to test.
 
 # License
 
